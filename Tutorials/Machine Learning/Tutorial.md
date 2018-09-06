@@ -14,8 +14,11 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 ## Step 2: Add Machine Learning and Spark Instances
 1. Go to the 'Settings' tab in the previously created project.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Create_New_Project.PNG "Logo Title Text 1")
-  * ## Add Machine Learning
+  * #### Add Machine Learning
     1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Watson'
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Add_Service_MachineLearning.PNG "Logo")
     2. Select Machine Learning in the window that pops up.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/MachineLearning.PNG "Logo Title Text 1")
+    3. Create a new instance of Machine Learning or select a previously created one from the options.
+    4. The ML service should now show up in the 'Associated Services' tab.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Added_MachineLearning.PNG "Logo Title Text 1")
