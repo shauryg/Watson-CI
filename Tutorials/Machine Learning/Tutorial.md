@@ -22,3 +22,7 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
     3. Create a new instance of Machine Learning or select a previously created one from the options.
     4. The ML service should now show up in the 'Associated Services' tab.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Added_MachineLearning.PNG "Logo Title Text 1")
+  * #### Add Spark Instance
+    1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Spark' 
+    2. Create a new instance of Spark or select a previously created one from the options.
+    3. The Spark service should now show up in the 'Associated Services' tab.    
