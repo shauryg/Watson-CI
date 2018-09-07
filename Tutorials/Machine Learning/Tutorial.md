@@ -37,3 +37,9 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 1. Open the new model that you created in the previous step and click on 'Add Data Assets'. You can drag and drop the CSV file.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Add%20Data%20Assets.PNG "Logo Title Text 1")
 2. Select the asset once it shows up and click Next.
+
+## Step 5: Configure the Model
+1. Depending upon the type of classification that you are trying to make, select the appropriate technique. The 'Column value to predict' requires the column that you want to predict.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Configure%20Model.PNG "Logo Title Text 1")
+2. Depending upon the type of classifier, select the estimator. Since this is a tutorial, select all to see the differences in the accuracy of the different models.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Select%20Estimators.PNG "Logo Title Text 1")
