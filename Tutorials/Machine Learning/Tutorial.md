@@ -43,3 +43,8 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Configure%20Model.PNG "Logo Title Text 1")
 2. Depending upon the type of classifier, select the estimator. Since this is a tutorial, select all to see the differences in the accuracy of the different models.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Select%20Estimators.PNG "Logo Title Text 1")
+3. Click Next once you have selected the appropriate options.
+
+## Step 6: Accuracy
+1. The model will start training all the estimators you selected in the previous step. You can will be able to select the estimator that you want based on the PR and ROC curves.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Select%20Estimators.PNG "Logo Title Text 1")
