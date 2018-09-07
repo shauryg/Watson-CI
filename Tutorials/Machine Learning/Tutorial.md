@@ -48,3 +48,11 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 ## Step 6: Accuracy
 1. The model will start training all the estimators you selected in the previous step. You can will be able to select the estimator that you want based on the PR and ROC curves.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Estimator%20Predictions.PNG "Logo Title Text 1")
+
+## Step 7: Deployment
+1. To deploy the model, go to the 'Deployment' tab and click 'Add Deployment'
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/deployment.PNG "Logo Title Text")
+2. Name the Deployment and select the type of deployment you want.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Name_Deployment.PNG "Logo Title Text")
+3. Click the newly deployed model and click implementation. These code snippets will allow you to use the model in your code. You can send data and recieve classification outcome using JSON.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Implementation.PNG "Logo Title Text")
