@@ -27,3 +27,8 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
     1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Spark' 
     2. Create a new instance of Spark or select a previously created one from the options.
     3. The Spark service should now show up in the 'Associated Services' tab.    
+    
+## Step 3: Create a New Model
+1. Go to 'Assets' tab in your project and scroll down to Watson Machine Learning Models.
+2. Click on 'New Watson Machine Learning model'. Select the Machine Learning service and the Spark service that we created in the previous steps. Select Manual on data preperation option.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Create%20a%20Model.PNG "Logo Title Text 1"
