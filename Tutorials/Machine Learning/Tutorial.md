@@ -46,7 +46,7 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 3. Click Next once you have selected the appropriate options.
 
 ## Step 6: Accuracy
-1. The model will start training all the estimators you selected in the previous step. You can will be able to select the estimator that you want based on the PR and ROC curves.
+1. The model will start training all the estimators you selected in the previous step. You can will be able to select the estimator that you want based on the PR and ROC curves. Click Save to save the selected model.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Estimator%20Predictions.PNG "Logo Title Text 1")
 
 ## Step 7: Deployment
