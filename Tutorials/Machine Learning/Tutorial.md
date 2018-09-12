@@ -56,3 +56,4 @@ This tutorial guides you through how to use Watson Studio and Machine Learning i
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Name_Deployment.PNG "Logo Title Text")
 3. Click on the newly deployed model and click implementation. These code snippets will allow you to use the model in your code. You can send data and recieve classification outcome using JSON.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Implementation.PNG "Logo Title Text")
+4. You can also test it in browser by going to the 'Test' tab and manually inputting the values.
