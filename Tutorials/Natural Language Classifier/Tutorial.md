@@ -7,18 +7,26 @@ This tutorial guides you through how to use Natural Language Classifier to class
   * Create an instance of Natural Language Classifier in your account.
     1. Search for NLC in the catalog. Create a service and name it.
 
-## Step 1: Create a new Project
+## Step 1: Create a Project
+1. Open an instance of the Watson Studio and click on 'Get Started'.
+2. Click on 'New Project' to create a new project and name it.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Create_New_Project.PNG "Logo Title Text 1")
 
-
-
-
-
-
-
-
-
-1. Open the Natural Language Classifier that you created earlier
-2. Click on 'Launch Tool' to create a new project and name it.
+## Step 2: Add Natural Language Classification Service
+1. Go to the 'Settings' tab in the previously created project.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Create_New_Project.PNG "Logo Title Text 1")
+  * #### Add Natural Language Classification
+    1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Watson'
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Add_Service_MachineLearning.PNG "Logo")
+    2. Select Natural Language Classification in the window that pops up.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/MachineLearning.PNG "Logo Title Text 1")
+    3. Create a new instance of Natural Language Classification or select a previously created one from the options.
+    4. The NLC service should now show up in the 'Associated Services' tab.
+![]()
+  
+## Step 3: Create a New Model
+1. Go to 'Assets' tab in your project and scroll down to Natural Language Classifiers.
+2. Click on 'New Classifier' to create a new project and name it.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%201.JPG)
 3. Click on 'Create New Model'.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%202.JPG)
