@@ -6,7 +6,7 @@ This tutorial guides you through how to use Natural Language Classifier to class
     1. Search for Watson Studio in the catalog. Create a service and name it.
   * Create an instance of Natural Language Classifier in your account.
     1. Search for NLC in the catalog. Create a service and name it.
-![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/name_WS_instance.PNG "Logo Title Text 1")
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%201.JPG)
 
 ## Step 1: Create a Project
 1. Open the newly created instance of the Watson Studio and click on 'Get Started'.
