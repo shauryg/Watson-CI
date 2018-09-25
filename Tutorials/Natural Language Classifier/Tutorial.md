@@ -14,7 +14,7 @@ This tutorial guides you through how to use Natural Language Classifier to class
 
 ## Step 2: Add Natural Language Classification Service
 1. Go to the 'Settings' tab in the previously created project.
-![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Create_New_Project.PNG "Logo Title Text 1")
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Go_To_Settings.PNG")
   * #### Add Natural Language Classification
     1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Watson'
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Add_Service_MachineLearning.PNG "Logo")
