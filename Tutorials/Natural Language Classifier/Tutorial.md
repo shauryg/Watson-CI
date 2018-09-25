@@ -26,9 +26,7 @@ This tutorial guides you through how to use Natural Language Classifier to class
   
 ## Step 3: Create a New Model
 1. Go to 'Assets' tab in your project and scroll down to Natural Language Classifiers.
-2. Click on 'New Classifier' to create a new project and name it.
-![](https://github.com/shauryg/WatsonCI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Natural%20Language%20Classifier%20Models%201.JPG)
-3. Click on 'Create New Model'.
-![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%202.JPG)
-4. You can upload the data in form of a CSV file. Just look for the CSV file using either the side window that pops up or drag and drop the data to the classifier option.
+2. Click on 'New Natural Language Classifier Model'.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/New%20NLC%20Model.JPG)
+3. You can upload the data in form of a CSV file. Just look for the CSV file using either the side window that pops up or drag and drop the data to the classifier option.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%203.JPG)
