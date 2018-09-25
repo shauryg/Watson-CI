@@ -30,3 +30,5 @@ This tutorial guides you through how to use Natural Language Classifier to class
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/New%20NLC%20Model.JPG)
 3. You can upload the data in form of a CSV file. Just look for the CSV file using either the side window that pops up or drag and drop the data to the classifier option.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%203.JPG)
+4. Click on train model and then wait for it to train the model.
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%204.JPG)
