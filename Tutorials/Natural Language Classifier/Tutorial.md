@@ -19,15 +19,15 @@ This tutorial guides you through how to use Natural Language Classifier to class
     1. Scroll down to 'Associated Services' tab and click on 'Add Service' and select 'Watson'
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/Add_Service_MachineLearning.PNG "Logo")
     2. Select Natural Language Classification in the window that pops up.
-![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Machine%20Learning/Pics/MachineLearning.PNG "Logo Title Text 1")
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Associated%20Services%20List.JPG)
     3. Create a new instance of Natural Language Classification or select a previously created one from the options.
     4. The NLC service should now show up in the 'Associated Services' tab.
-![]()
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Associated%20Serivces.JPG)
   
 ## Step 3: Create a New Model
 1. Go to 'Assets' tab in your project and scroll down to Natural Language Classifiers.
 2. Click on 'New Classifier' to create a new project and name it.
-![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%201.JPG)
+![](https://github.com/shauryg/WatsonCI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Natural%20Language%20Classifier%20Models%201.JPG)
 3. Click on 'Create New Model'.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%202.JPG)
 4. You can upload the data in form of a CSV file. Just look for the CSV file using either the side window that pops up or drag and drop the data to the classifier option.
