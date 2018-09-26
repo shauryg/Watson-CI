@@ -32,3 +32,4 @@ This tutorial guides you through how to use Natural Language Classifier to class
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%203.JPG)
 4. Click on train model and then wait for it to train the model.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/Natural%20Language%20Classifier/Pics/Capture%204.JPG)
+5. Once it has trained, you can test it using the GUI or use one of the APIs to send and recieve output.
