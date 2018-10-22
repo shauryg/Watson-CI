@@ -34,8 +34,17 @@ In order to train your model, you need text data that you can label with entitie
 Once you have all the data uploaded, you need to create Annotation Sets which are a combination of all your text sets. You can set how much overlap you want between the different sets you have uploaded.
 ![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/WKS/Capture8.JPG)
 
-## Step 6: Human Annotation and Testing
-The final part of making the model to to annotate it manually. Ideally you should have about 10 files per each entity. But since this is a tutorial, you can have as many as you want. Begin by adding a Annotation Task. Generally this is used to distribute the annotation between multiple people with 1 overseer who makes sure that the annotation style is consistent between all the human anotators. 
+## Step 6: Human Annotation
+The final part of making the model to to annotate it manually. Ideally you should have about 10 files per each entity. But since this is a tutorial, you can have as many as you want. Begin by adding a Annotation Task. Generally this is used to distribute the annotation
+between multiple people with 1 overseer who makes sure that the annotation style is consistent between all the human anotators. 
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/WKS/Capture7.JPG)
+Now you can begin annotation. Click on the task you just created and select Annotate. You can select one of the documents at a time and begin marking them. You will see a screen like this -:
+![](https://github.com/shauryg/Watson-CI/blob/master/Tutorials/WKS/Capture9.JPG)
+On the right you can see the list of Entities and Relations. You can mark any work or group of words as entities and once you can relate any two or more entities by relations. Once you have all the documents marked you can train the model.
+
+## Step 7: Training
+In order to train the model, you simple select Train and Evaluate and then select the Annotation Sets you have finished to be trained on. Once it finished training, you will be able to see how many entities and relations was the model able to correctly predict. For higher performance, you require consistent annotation and goot amount of data.
+
 
 
 
